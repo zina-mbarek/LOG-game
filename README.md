@@ -1,2 +1,2 @@
 # LOG-game
-this is our work Repository
+this is our work Repository.
